@@ -1,7 +1,5 @@
 # WeatherWiz
 
-This WeatherWiz is a simple desktop application built using Python and Tkinter that fetches and displays weather information for a specified city. It uses the OpenWeatherMap API to get real-time weather data.
-
 ## Features
 
 - Fetches current weather information for any city.
