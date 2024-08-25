@@ -54,6 +54,3 @@
 2. Enter the name of the city for which you want to know the weather.
 3. Press Enter or click anywhere to see the weather information displayed on the screen.
 
-## Project Structure
-
-- **weather_app
